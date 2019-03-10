@@ -9,3 +9,14 @@ C:\Temp\SImpleConsoleADO\SImpleConsoleADO\obj\Debug\netcoreapp2.1\SImpleConsoleA
 C:\Temp\SImpleConsoleADO\SImpleConsoleADO\obj\Debug\netcoreapp2.1\SImpleConsoleADO.AssemblyInfo.cs
 C:\Temp\SImpleConsoleADO\SImpleConsoleADO\obj\Debug\netcoreapp2.1\SImpleConsoleADO.dll
 C:\Temp\SImpleConsoleADO\SImpleConsoleADO\obj\Debug\netcoreapp2.1\SImpleConsoleADO.pdb
+C:\git\qri\CrossPlatformSQLandDotNetCore\SimpleConsoleADO\SimpleConsoleADO\bin\Debug\netcoreapp2.1\SimpleConsoleADO.deps.json
+C:\git\qri\CrossPlatformSQLandDotNetCore\SimpleConsoleADO\SimpleConsoleADO\bin\Debug\netcoreapp2.1\SimpleConsoleADO.runtimeconfig.json
+C:\git\qri\CrossPlatformSQLandDotNetCore\SimpleConsoleADO\SimpleConsoleADO\bin\Debug\netcoreapp2.1\SimpleConsoleADO.runtimeconfig.dev.json
+C:\git\qri\CrossPlatformSQLandDotNetCore\SimpleConsoleADO\SimpleConsoleADO\bin\Debug\netcoreapp2.1\SimpleConsoleADO.dll
+C:\git\qri\CrossPlatformSQLandDotNetCore\SimpleConsoleADO\SimpleConsoleADO\bin\Debug\netcoreapp2.1\SimpleConsoleADO.pdb
+C:\git\qri\CrossPlatformSQLandDotNetCore\SimpleConsoleADO\SimpleConsoleADO\obj\Debug\netcoreapp2.1\SimpleConsoleADO.csprojAssemblyReference.cache
+C:\git\qri\CrossPlatformSQLandDotNetCore\SimpleConsoleADO\SimpleConsoleADO\obj\Debug\netcoreapp2.1\SimpleConsoleADO.csproj.CoreCompileInputs.cache
+C:\git\qri\CrossPlatformSQLandDotNetCore\SimpleConsoleADO\SimpleConsoleADO\obj\Debug\netcoreapp2.1\SimpleConsoleADO.AssemblyInfoInputs.cache
+C:\git\qri\CrossPlatformSQLandDotNetCore\SimpleConsoleADO\SimpleConsoleADO\obj\Debug\netcoreapp2.1\SimpleConsoleADO.AssemblyInfo.cs
+C:\git\qri\CrossPlatformSQLandDotNetCore\SimpleConsoleADO\SimpleConsoleADO\obj\Debug\netcoreapp2.1\SimpleConsoleADO.dll
+C:\git\qri\CrossPlatformSQLandDotNetCore\SimpleConsoleADO\SimpleConsoleADO\obj\Debug\netcoreapp2.1\SimpleConsoleADO.pdb

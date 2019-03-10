@@ -10,7 +10,7 @@ namespace SImpleConsoleADO
         {
             try
             {
-                using (SqlConnection sqlConn = new SqlConnection("Data Source = localhost; Initial Catalog = GeoDemo; Integrated Security = True"))
+                using (SqlConnection sqlConn = new SqlConnection("Data Source = localhost; Initial Catalog = QriDemo; Integrated Security = True"))
                 {
                     sqlConn.Open();
 

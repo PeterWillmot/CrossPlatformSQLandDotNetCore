@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "SImpleConsoleADO/1.0.0": {
+      "SimpleConsoleADO/1.0.0": {
         "dependencies": {
           "System.Data.SqlClient": "4.6.0"
         },
         "runtime": {
-          "SImpleConsoleADO.dll": {}
+          "SimpleConsoleADO.dll": {}
         }
       },
       "Microsoft.Win32.Registry/4.5.0": {
@@ -145,7 +145,7 @@
     }
   },
   "libraries": {
-    "SImpleConsoleADO/1.0.0": {
+    "SimpleConsoleADO/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

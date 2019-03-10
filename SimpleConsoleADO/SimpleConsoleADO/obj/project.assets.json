@@ -1181,11 +1181,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Temp\\SImpleConsoleADO\\SImpleConsoleADO\\SImpleConsoleADO.csproj",
-      "projectName": "SImpleConsoleADO",
-      "projectPath": "C:\\Temp\\SImpleConsoleADO\\SImpleConsoleADO\\SImpleConsoleADO.csproj",
+      "projectUniqueName": "C:\\git\\qri\\CrossPlatformSQLandDotNetCore\\SimpleConsoleADO\\SimpleConsoleADO\\SimpleConsoleADO.csproj",
+      "projectName": "SimpleConsoleADO",
+      "projectPath": "C:\\git\\qri\\CrossPlatformSQLandDotNetCore\\SimpleConsoleADO\\SimpleConsoleADO\\SimpleConsoleADO.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Temp\\SImpleConsoleADO\\SImpleConsoleADO\\obj\\",
+      "outputPath": "C:\\git\\qri\\CrossPlatformSQLandDotNetCore\\SimpleConsoleADO\\SimpleConsoleADO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
