@@ -1,0 +1,11 @@
+C:\Temp\SImpleConsoleADO\SImpleConsoleADO\bin\Debug\netcoreapp2.1\SImpleConsoleADO.deps.json
+C:\Temp\SImpleConsoleADO\SImpleConsoleADO\bin\Debug\netcoreapp2.1\SImpleConsoleADO.runtimeconfig.json
+C:\Temp\SImpleConsoleADO\SImpleConsoleADO\bin\Debug\netcoreapp2.1\SImpleConsoleADO.runtimeconfig.dev.json
+C:\Temp\SImpleConsoleADO\SImpleConsoleADO\bin\Debug\netcoreapp2.1\SImpleConsoleADO.dll
+C:\Temp\SImpleConsoleADO\SImpleConsoleADO\bin\Debug\netcoreapp2.1\SImpleConsoleADO.pdb
+C:\Temp\SImpleConsoleADO\SImpleConsoleADO\obj\Debug\netcoreapp2.1\SImpleConsoleADO.csprojAssemblyReference.cache
+C:\Temp\SImpleConsoleADO\SImpleConsoleADO\obj\Debug\netcoreapp2.1\SImpleConsoleADO.csproj.CoreCompileInputs.cache
+C:\Temp\SImpleConsoleADO\SImpleConsoleADO\obj\Debug\netcoreapp2.1\SImpleConsoleADO.AssemblyInfoInputs.cache
+C:\Temp\SImpleConsoleADO\SImpleConsoleADO\obj\Debug\netcoreapp2.1\SImpleConsoleADO.AssemblyInfo.cs
+C:\Temp\SImpleConsoleADO\SImpleConsoleADO\obj\Debug\netcoreapp2.1\SImpleConsoleADO.dll
+C:\Temp\SImpleConsoleADO\SImpleConsoleADO\obj\Debug\netcoreapp2.1\SImpleConsoleADO.pdb
