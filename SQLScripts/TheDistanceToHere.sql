@@ -1,4 +1,4 @@
-USE GeoDemo
+USE QriDemo
 GO
 
 IF NOT EXISTS(SELECT 1 FROM QRIGeoSpatialInfoSource.dbo.Airports WHERE city = 'Reykjavik') INSERT QRIGeoSpatialInfoSource.dbo.Airports(city, lon, lat) VALUES('Reykjavik', -22.625723, 63.998562)

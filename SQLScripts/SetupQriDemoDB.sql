@@ -7,10 +7,10 @@
 USE Master
 GO
 
-IF NOT EXISTS(SELECT 1 FROM sys.databases WHERE name = 'GeoDemo') CREATE DATABASE GeoDemo
+IF NOT EXISTS(SELECT 1 FROM sys.databases WHERE name = 'QriDemo') CREATE DATABASE QriDemo
 GO
 
-USE GeoDemo
+USE QriDemo
 GO
 
 IF EXISTS(SELECT 1 FROM sys.objects WHERE name = 'Region') DROP TABLE Region
